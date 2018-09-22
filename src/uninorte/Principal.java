@@ -6,11 +6,11 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubhh
            Persona persona1 = new Persona("Annie", "Rodríguez");
            Persona persona2 = new Persona("Edward", "Sabogal");
-           Persona persona3 = new Persona("Lisset", "Rojas");
-           LinkedList<Persona> listaAuxiliar = new LinkedList<Persona>();
+           Persona persona3 = new Persona("Lisset", "Rojasss");
+           LinkedList<Persona> listaAuxiliar = new LinkedList<Persona>();  
            
            listaAuxiliar.add(persona1);
            listaAuxiliar.add(persona2);
